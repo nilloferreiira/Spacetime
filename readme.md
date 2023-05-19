@@ -1,6 +1,6 @@
 ## Nlw Spacetime
 
-Uma cápsula do tempo feita em ReactJS, ReactNative, Next.JS, NodeJS, Typescript, Prisma e TailwindCSS
+Uma cápsula do tempo feita em ReactJS, Next.JS, NodeJS, Typescript, Prisma e TailwindCSS
 
 ## Tecnologias 
 
@@ -8,7 +8,6 @@ Aqui estão as tecnologias usadas no projeto
 
 * React
 * TypeScript
-* ReactNative
 * Next.JS
 * NodeJS
 * Prisma

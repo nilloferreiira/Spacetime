@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -56,6 +57,7 @@ module.exports = {
       },
       white: '#FFF',
       black: '#000000',
+      transparent: 'transparent',
     },
 
     backgroundImage: {
@@ -76,5 +78,5 @@ module.exports = {
     },
   },
 
-  plugins: [],
+  plugins: [require('@tailwindcss/forms')],
 }
